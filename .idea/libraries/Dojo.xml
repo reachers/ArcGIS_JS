@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Dojo" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Dojo" />
+      <option name="frameworkVersion" value="1.9.1" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/../dojo-1.9.1" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../dojo-1.9.1" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
